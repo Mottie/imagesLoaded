@@ -1,0 +1,16 @@
+﻿#block, #load {
+	width: 960px;
+	margin: 0 auto;
+	text-align: center;
+}
+#block img {
+	width: 100px;
+	max-height: 100px;
+	padding: 5px;
+}
+#load div {
+	font-size: 20px;
+}
+#load strong {
+	color: red;
+}

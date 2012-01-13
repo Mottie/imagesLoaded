@@ -1,0 +1,30 @@
+﻿{
+    "name": "imagesLoaded",
+    "version": "1.0",
+    "title": "Images Loaded",
+    "author": {
+        "name": "Rob Garrison",
+        "url": "https://github.com/Mottie"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.2.6"
+    },
+    "description": "Just a little script to run a callback when all images have completed loading; it ignores image load errors.",
+    "keywords": [
+        "image",
+        "images",
+        "images loaded",
+        "images loaded callback"
+    ],
+    "homepage": "http://wowmotty.blogspot.com/2011/12/all-images-loaded-imagesloaded.html",
+    "files": [
+        "js/jquery.imagesloaded.js",
+        "js/jquery.imagesloaded.min.js"
+    ]
+}
