@@ -1,4 +1,17 @@
-﻿#block, #load {
+﻿body {
+	background: #333;
+	color: #ddd;
+}
+
+h1 {
+	text-align: center;
+}
+
+a:link { color: #9fcdff; text-decoration: none; }
+a:hover { color: #fff; }
+a:visited, a:active { color: #53a5ff; }
+
+#block, #load {
 	width: 960px;
 	margin: 0 auto;
 	text-align: center;
